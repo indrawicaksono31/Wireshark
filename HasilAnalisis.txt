@@ -1,0 +1,15 @@
+Throughput	: Jumlah data yang dikirim/waktu pengiriman
+		: 12985/50.979= 254,7127248474862 Bytes
+		: 254,7127248474862 x 8 =2.037,70179877989 Bit
+
+
+Packet loss	: ((Paket data dikirim-paket data diterima) x 100) / paket data dikirim
+		: ((112 - 1) x 100) / 112 = 99,10714285714286
+		: 100 - 99,10714285714286 = 0,89285714285714
+
+Delay		: Total delay= Waktu kedua - Waktu pertama = 39.955.019 s
+		: Rata-rata Delay = 359955,1261 s
+
+Jitter		: Total jitter=-37.675 s
+		: Rata-rata jitter=-339,4144144 sWireShark
+WireShark
